@@ -3,9 +3,11 @@
 - This is API for the crud
 - Client and Server are in different repositories - easier to deploy
 
-#Tech Stack
+# Tech Stack
 - React JS
 - Mongodb Atlas
 - Mongoose
 - Node JS
 - Express JS
+
+Live Demo - https://crud-app-mettsenia.vercel.app/
